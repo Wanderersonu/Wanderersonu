@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=WANDERERSONU&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=WANDERERSONU&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake
+
+![Snake](https://github.com/Wanderersonu/Wanderersonu/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WANDERERSONU&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
